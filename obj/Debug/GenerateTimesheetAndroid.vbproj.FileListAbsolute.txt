@@ -1,0 +1,63 @@
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe.config
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\Console_Lotus.pdb
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\Console_Lotus.xml
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\BouncyCastle.Crypto.dll
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\itextsharp.dll
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\itextsharp.xml
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Interop.Domino.dll
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.ResolveComReference.cache
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Console_Lotus.Resources.resources
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.GenerateResource.Cache
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Console_Lotus.exe
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Console_Lotus.xml
+W:\Dekstop\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Console_Lotus.pdb
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbprojAssemblyReference.cache
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.ResolveComReference.cache
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Console_Lotus.Resources.resources
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.GenerateResource.cache
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.CoreCompileInputs.cache
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Console_Lotus.exe
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Console_Lotus.xml
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\Console_Lotus.pdb
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe.config
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\Console_Lotus.pdb
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\Console_Lotus.xml
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\BouncyCastle.Crypto.dll
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\itextsharp.dll
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\bin\Debug\itextsharp.xml
+D:\PROJECT APLIKASI\GenerateSlipOvertime\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.CopyComplete
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe.config
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Interop.Domino.dll
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.ResolveComReference.cache
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.exe
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.xml
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.pdb
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.pdb
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.xml
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\BouncyCastle.Crypto.dll
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\itextsharp.dll
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\itextsharp.xml
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.Resources.resources
+W:\Dekstop\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.GenerateResource.Cache
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe.config
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.pdb
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.xml
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\itextsharp.dll
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\itextsharp.xml
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.ResolveComReference.cache
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.Resources.resources
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.GenerateResource.Cache
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.exe
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.xml
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.pdb
+D:\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbprojResolveAssemblyReference.cache
+\\Asminb3851\d$\Project\GenerateInsetifSlip\GenerateSlipOvertime\bin\Debug\Console_Lotus.exe.config
+\\Asminb3851\d$\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\GenerateTimesheetAndroid.vbproj.ResolveComReference.cache
+\\Asminb3851\d$\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.exe
+\\Asminb3851\d$\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.xml
+\\Asminb3851\d$\Project\GenerateInsetifSlip\GenerateSlipOvertime\obj\Debug\Console_Lotus.pdb

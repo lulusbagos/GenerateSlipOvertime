@@ -1,0 +1,46 @@
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe.config
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Interop.Domino.dll
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.ResolveComReference.cache
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.pdb
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.Resources.resources
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.GenerateResource.Cache
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.exe
+D:\DATA\bayu_titip\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.pdb
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe.config
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Interop.Domino.dll
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.ResolveComReference.cache
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.exe
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.pdb
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.pdb
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.Resources.resources
+D:\DATA\Alief Kresna Utama\ProjectPama\Projet_Mail_LN\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.GenerateResource.Cache
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe.config
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.pdb
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Interop.Domino.dll
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.ResolveComReference.cache
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.Resources.resources
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.GenerateResource.Cache
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.exe
+E:\01. MY DATA\01. PAMA\01. PROJECT\15. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.pdb
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe.config
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.pdb
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Interop.Domino.dll
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.ResolveComReference.cache
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.Resources.resources
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.GenerateResource.Cache
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.exe
+E:\01. MY DATA\01. PAMA\01. PROJECT\14. EMAIL\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.pdb
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe.config
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Interop.Domino.dll
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.ResolveComReference.cache
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.exe
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\bin\x86\Debug\Console_Lotus.pdb
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.Resources.resources
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbproj.GenerateResource.Cache
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.exe
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.pdb
+F:\05. DATA\05. PROJECT\## 2016 ##\Non OPerational\20. KI-SEMEK\20. KI-SEMEK\01. Project\Projet_Mail_LN1\Console_LN\Console_Lotus\obj\x86\Debug\Console_Lotus.vbprojResolveAssemblyReference.cache
